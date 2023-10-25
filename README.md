@@ -7,7 +7,7 @@ The assignment is to create a logistic regression model for the dataset which co
 About the Dataset
 
 ## Source 
-[link to the KaggleTrain dataset](https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan/data)
+[link to the KaggleTrain dataset](https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan/data) \
 CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
 
 
