@@ -1,4 +1,4 @@
-# Logistic-Regression
+# Logistic Regression
 
 [link to the raport](logistic_regression_loan.ipynb)
 
