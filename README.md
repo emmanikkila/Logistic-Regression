@@ -1,6 +1,6 @@
 # Logistic Regression
 
-[link to the raport](logistic_regression_loan.ipynb)
+[link to the Report](logistic_regression_loan.ipynb)
 
 ## Aim of the Analysis
 The assignment is to create a logistic regression model for the dataset which could be used to identify the customers that are eligible and uneligible for the loan. Calculate relevant metrix for the model, such as accuracy, precision, log loss and score.
